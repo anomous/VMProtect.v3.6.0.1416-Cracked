@@ -23,13 +23,23 @@ Password(RAW):
 Changelog:
 VMProtect 3.6
 March 24th, 2022
+
 [*] .NET: Improved renaming of virtual methods
+
 [*] .NET: Fixed a bug that occurred inside finally blocks of virtualized methods
+
 [*] Mach-O: Improved support of macOS 12 Monterey
+
 [*] PE: Improved antidebug
-[+] .NET: Added support of volatile and calli
-[+] PE: Added support of Windows for ARM (for Intel binaries only)
-[+] PE: Improved support of WINE
-[+] PE: Added support of MAP files for Free Pascal and MinGW
-[+] Added the ability to create segments with random symbols using mask ‘?’
+
+[+] .NET: Added support of volatile and calli  
+
+[+] PE: Added support of Windows for ARM (for Intel binaries only)  
+
+[+] PE: Improved support of WINE  
+
+[+] PE: Added support of MAP files for Free Pascal and MinGW  
+
+[+] Added the ability to create segments with random symbols using mask ‘?’  
+
 (https://vmpsoft.com/20220324/vmprotect-3-6/)

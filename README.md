@@ -10,7 +10,8 @@ The latest version of VMProtect Ultimate is Cracked / Leaked.
 
 [Password]|
 (https://pastebin.com/68Hr3vJX)
-[Virustotal]|(https://www.virustotal.com/gui/file/bc8fe64de5ade6535c811e90c7bd87e830834ee21a4dfb2582020055d4725369)
+[Virustotal]|
+(https://www.virustotal.com/gui/file/bc8fe64de5ade6535c811e90c7bd87e830834ee21a4dfb2582020055d4725369)
 | ------------- |:-------------:| -----:|
 ---
 Password(RAW):  

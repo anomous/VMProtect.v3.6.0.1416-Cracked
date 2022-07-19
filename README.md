@@ -21,6 +21,7 @@ Password(RAW):
 (https://user-images.githubusercontent.com/62977195/175781075-c15b58fb-99c9-4c4c-9704-b84467b5a431.png)|
 ---
 Changelog:
+
 VMProtect 3.6
 March 24th, 2022
 
